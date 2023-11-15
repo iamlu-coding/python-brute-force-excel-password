@@ -1,7 +1,7 @@
 import win32com.client
 import time
 
-excel_file = r'C:\Code\YouTube\python-brute-force-excel-password\sales-reps.xlsx'
+excel_file = r'C:\Users\adesh\Desktop\Book1.xlsx'
 password_file = r'C:\Code\YouTube\python-brute-force-excel-password\passwords.txt'
 
 excel = win32com.client.Dispatch('Excel.Application')
